@@ -1,0 +1,88 @@
+.challenge-title {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+    color: #248a93;
+  }
+  
+  .challenge-text {
+    width: 100%;
+    height: 120px;
+    color: #248a93;
+  }
+  
+  #challenge-btn {
+    margin-left: 85%;
+    width: 150px;
+    background-color: #0005;
+    border-color: none;
+  }
+  
+  .challenge-h3 {
+    color: #248a93;
+    margin-left: 15px;
+  }
+  
+  h5 {
+    color: #248a93;
+  }
+  
+  .challenge-talk {
+    width: 90%;
+    height: 80px;
+    color: white;
+    background-color: #0004;
+    margin-bottom: 10px;
+    padding: 10px 0 0 20px;
+  }
+  
+  .challenge-talk2 {
+    width: 90%;
+    height: 80px;
+    color: white;
+    background-color: #248a93;
+    margin-bottom: 10px;
+    padding: 10px 0 0 20px;
+  }
+  .challenge-talk a,
+  .challenge-talk2 a {
+    color: white;
+  }
+  .challenge-talk1 a {
+    color: white;
+  }
+  
+  .challenge-talk1 {
+    width: 90%;
+    height: 80px;
+    color: white;
+    background-color: #248a93;
+    margin-bottom: 10px;
+    padding: 10px 0 0 20px;
+    margin-bottom: 40px;
+  }
+  
+  #challengeOne {
+    width: 100%;
+    height: 300px;
+    color: #248a93;
+    margin-top: 40px;
+    padding: 10px 0 0 10px;
+    margin-bottom: 40px;
+    border: 1px solid black;
+  }
+  .forimg {
+    width: 100%;
+    height: 70px;
+    background-color: #248a93;
+  }
+  
+  .forimg1 {
+    width: 100%;
+    height: 200px;
+    color: #248a93;
+    margin-left: 20px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  

@@ -1,0 +1,66 @@
+/* ///////// HEADER ////////// */ 
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Oswald:200,300,400,500,600,700');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: 'Open Sans', sans-serif;
+    color: #353030;
+  }
+  
+header {
+    background-color: #8cb2b8;
+    height: 4.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header img {
+    height: 3rem;
+    margin-left: 10%;
+  }
+  
+  header .user-button-group {
+    margin-right: 5%;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  header .user-button-group .user-button {
+    background-color: #fff;
+    text-decoration: none;
+    padding: .3rem 1.5rem;
+    margin-right: 2rem;
+    border-radius: 50px;
+    font-weight: 600;
+    color: #8cb2b8;
+  }
+  
+  header .user-button-group a:link,
+  header .user-button-group a:active,
+  header .user-button-group a:visited,
+  {
+    color: #8cb2b8;
+  }
+  
+  header .user-button-group a:hover {
+    color: #8cb2b8;
+  }
+  
+  header .user-button-group button {
+    background: transparent;
+    border-style: none;
+  }
+  
+  header svg {
+    fill: #fff;
+    margin-bottom: 0;
+  }
